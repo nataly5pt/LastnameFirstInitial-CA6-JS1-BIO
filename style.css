@@ -1,0 +1,6 @@
+:root { font-family: system-ui, Arial, sans-serif; }
+body { margin: 0; background: #f7f7fb; color: #111; }
+.wrap { max-width: 720px; margin: 8vh auto; padding: 24px; background:#fff; border-radius:16px; box-shadow:0 10px 30px rgba(0,0,0,.08); }
+h1 { margin-top: 0; letter-spacing:.3px; }
+.hint { color:#555; }
+#result { margin-top: 16px; font-size: 1.125rem; }
