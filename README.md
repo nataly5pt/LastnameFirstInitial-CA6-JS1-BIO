@@ -1,4 +1,4 @@
-# GlushakNatalia-CA6-JS1-BIO
+# Glushak_Natalia-CA6-JS1-BIO
 
 # CA6 – JS1: Bear Ninja Hunter (BIO)
 
@@ -14,7 +14,7 @@ This version focuses on **input/output** only—no functions or game logic yet.
 
 ## Run it
 1. Open `index.html` in any modern browser **or** visit the deployed page:  
-   **GH Pages:** `<your-gh-pages-url>`
+   **GH Pages:** `<(https://nataly5pt.github.io/LastnameFirstInitial-CA6-JS1-BIO/)>`
 2. Follow the on-screen prompts.  
 3. After the third prompt, check the result text on the page and open DevTools → **Console** to see the logged message.
 
